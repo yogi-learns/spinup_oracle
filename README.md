@@ -55,4 +55,4 @@ The following can be customized:
 * `PATCH_ZIP`: `p30869156_190000_Linux-x86-64.zip`
 * `OPATCH_ZIP`: `p6880880_190000_Linux-x86-64.zip`
 
-* All code in this repo, is inspired from what Oracle maintains *
+*All code in this repo, is inspired from what Oracle maintains* 
