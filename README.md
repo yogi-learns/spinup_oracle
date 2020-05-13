@@ -15,7 +15,7 @@ A vagrant box that provisions Oracle Database **(19c)** automatically, using Vag
    1. The first time you run this it will provision everything and may take a while. Ensure you have (a good) internet connection as the scripts will update the virtual box to the latest via `dnf`.
    2. The Vagrant file allows for customization, if desired (see [Customization](#customization))
 4. Connect to host
-   1. via putty using, `common_private_key` added to vagrant user.
+   1. via putty (localhost) using `common_private_key` and vagrant user.
    2. via vagrant ssh
 5. Connect to the database.
 6. You can shut down the box via the usual `vagrant halt` and the start it up again via `vagrant up`.
