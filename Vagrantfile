@@ -107,8 +107,9 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   	   "CV_ASSUME_DISTID"    => "8.2",
 	   "BASE_ZIP"            => "LINUX.X64_193000_db_home.zip",
 	   "PATCH_LOC"           => "/opt/oracle/release-update",
-	   "PATCH_NUMBER"        => "30869156",
-	   "PATCH_ZIP"           => "p30869156_190000_Linux-x86-64.zip",
+           "PATCH_VERSION"       => "19.8.0",
+	   "PATCH_NUMBER"        => "31281355",
+	   "PATCH_ZIP"           => "p31281355_190000_Linux-x86-64.zip",
 	   "OPATCH_ZIP"          => "p6880880_190000_Linux-x86-64.zip"
     }
 
